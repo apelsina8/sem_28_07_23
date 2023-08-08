@@ -19,3 +19,6 @@ git add - 'nf
 123214
 
 1423490534-4
+
+
+local tranzistor
